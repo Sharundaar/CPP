@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1371759202 source:c:\users\fireflown\documents\program\projet lo22\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"converter.h"
+
+1371753303 c:\users\fireflown\documents\program\projet lo22\converter.h
+	<stdlib.h>
+	<string.h>
+
+1371760496 source:c:\users\fireflown\documents\program\projet lo22\converter.c
+	"converter.h"
+
